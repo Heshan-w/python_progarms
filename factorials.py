@@ -47,7 +47,7 @@ def factorial_3(num):
 print(factorial_3(4))
 
 
-# attempt 4(using recursion)
+# attempt 4(using recursion) * this is the most optimal method
 def factorial_4(num):
     if num == 0:
         return 1
